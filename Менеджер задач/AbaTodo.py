@@ -114,5 +114,4 @@ if __name__ == '__main__':
     menu(conn, cursor)
     conn.close()
     
-
-
+print('Изменение в проекте')
